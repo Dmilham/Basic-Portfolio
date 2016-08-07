@@ -1,0 +1,9 @@
+#dm {
+	background-color: teal;
+	color: #fff;
+	width: 20%;
+	padding: 50px;
+}
+.box {
+	float: left;
+}
